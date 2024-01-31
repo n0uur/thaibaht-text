@@ -2,6 +2,8 @@
 
 Node.js package to convert numerical values into written text in both Thai and English, specifically formatted for Thai Baht currency values. It leverages the 'to-words' package with some conditions for English conversions and utilizes 'bahttext' for Thai language support.
 
+PS. I'm creating this package for my own personal use and I just wanted to make it public in case anyone else finds it useful even if it's pretty useless.
+
 ## Features and Usage
 
 - Converts numerical values into written text in both Thai and English
