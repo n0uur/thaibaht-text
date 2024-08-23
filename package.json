@@ -1,6 +1,6 @@
 {
-  "name": "thai-baht-text-but-useless",
-  "version": "1.0.0",
+  "name": "@n0uur/thaibaht-text",
+  "version": "1.0.1",
   "description": "Thai Baht converter package for Node.js, Powered by 'to-words' & 'bahttext' to support both Thai and English",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/n0uur/thai-baht-text-but-useless.git"
+    "url": "git+https://github.com/n0uur/thaibaht-text-but-useless.git"
   },
   "author": "Krittanut S",
   "license": "MIT",
@@ -28,9 +28,9 @@
     "baht-conversion"
   ],
   "bugs": {
-    "url": "https://github.com/n0uur/thai-baht-text-but-useless/issues"
+    "url": "https://github.com/n0uur/thaibaht-text/issues"
   },
-  "homepage": "https://github.com/n0uur/thai-baht-text-but-useless#readme",
+  "homepage": "https://github.com/n0uur/thaibaht-text#readme",
   "devDependencies": {
     "@types/jest": "^29.5.11",
     "jest": "^29.7.0",

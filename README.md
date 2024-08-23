@@ -1,4 +1,4 @@
-# Useless Thai Baht Converter
+# Thai Baht To Text Converter (EN/TH)
 
 Node.js package to convert numerical values into written text in both Thai and English, specifically formatted for Thai Baht currency values. It leverages the 'to-words' package with some conditions for English conversions and utilizes 'bahttext' for Thai language support.
 
