@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/n0uur/thaibaht-text/issues"
   },
-  "homepage": "https://github.com/n0uur/thaibaht-text#readme",
+  "homepage": "https://n0uur.github.io/thaibaht-text",
   "devDependencies": {
     "@types/jest": "^29.5.11",
     "jest": "^29.7.0",

@@ -4,6 +4,10 @@ Node.js package to convert numerical values into written text in both Thai and E
 
 PS. I'm creating this package for my own personal use and I just wanted to make it public in case anyone else finds it useful even if it's pretty useless.
 
+## DEMO
+
+Check it out here: [https://n0uur.github.io/thaibaht-text](https://n0uur.github.io/thaibaht-text/)
+
 ## Features and Usage
 
 - Converts numerical values into written text in both Thai and English
