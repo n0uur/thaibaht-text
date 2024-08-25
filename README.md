@@ -34,9 +34,14 @@ console.log(toBahtTextEnglish(55.36)); // OUTPUT: Fifty Five Baht and Thirty Six
 ## Installation
 
 ```bash
-npm install --save thai-baht-text-but-useless
-yarn add thai-baht-text-but-useless
-pnpm add thai-baht-text-but-useless
+# NPM
+npm install --save @n0uur/thaibaht-text
+
+# Yarn
+yarn add @n0uur/thaibaht-text
+
+# PNPM
+pnpm add @n0uur/thaibaht-text
 ```
 
 ## License
