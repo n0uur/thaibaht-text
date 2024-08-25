@@ -41,12 +41,12 @@ jobs:
         with:
           cmd: install
           node-version: 20
-          path: ./demo
+          dir: ./demo
       - name: Build Static Site
         uses: borales/actions-yarn@v4
         with:
           cmd: build
-          path: ./demo
+          dir: ./demo
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
