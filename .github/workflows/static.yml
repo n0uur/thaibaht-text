@@ -40,7 +40,6 @@ jobs:
         uses: borales/actions-yarn@v4
         with:
           cmd: install
-          node-version: 20
           dir: ./demo
       - name: Build Static Site
         uses: borales/actions-yarn@v4
