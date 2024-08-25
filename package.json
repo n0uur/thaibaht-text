@@ -1,6 +1,6 @@
 {
   "name": "@n0uur/thaibaht-text",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Thai Baht converter package for Node.js, Powered by 'to-words' & 'bahttext' to support both Thai and English",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
