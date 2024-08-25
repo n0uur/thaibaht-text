@@ -40,17 +40,19 @@ jobs:
         uses: borales/actions-yarn@v4
         with:
           cmd: install
-      - name: Run install
+          node-version: 20
+          path: ./demo
+      - name: Build Static Site
         uses: borales/actions-yarn@v4
         with:
           cmd: build
+          path: ./demo
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload dist folder
-          path: './dist'
+          path: './demo/dist'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
