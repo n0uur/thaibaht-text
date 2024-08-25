@@ -12,11 +12,11 @@ PS. I'm creating this package for my own personal use and I just wanted to make 
 // ---- Import ----
 
 // CommonJS
-const toBahtText = require("thai-baht-text-but-useless").default;
-const { toBahtTextEnglish, toBahtTextThai } = require("thai-baht-text-but-useless");
+const toBahtText = require("@n0uur/thaibaht-text").default;
+const { toBahtTextEnglish, toBahtTextThai } = require("@n0uur/thaibaht-text");
 
 // ES6
-import toBahtText, { toBahtTextThai, toBahtTextEnglish } from "thai-baht-text-but-useless";
+import toBahtText, { toBahtTextThai, toBahtTextEnglish } from "@n0uur/thaibaht-text";
 
 // ---- Usage ----
 
